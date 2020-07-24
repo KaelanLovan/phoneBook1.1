@@ -1,0 +1,12 @@
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\bin\Debug\Phonebook Pro.exe.config
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\bin\Debug\Phonebook Pro.exe
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\bin\Debug\Phonebook Pro.pdb
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.About_Us.resources
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Form1.resources
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Properties.Resources.resources
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Reg_data.resources
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Search_Form.resources
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csproj.GenerateResource.cache
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csproj.CoreCompileInputs.cache
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\Phonebook Pro.exe
+C:\Users\Kaelan\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\Phonebook Pro.pdb
